@@ -1,4 +1,5 @@
 🍽️ FeastHub – MERN Stack Online Food Ordering System
+
 📌 Abstract
 
 FeastHub is a modern MERN Stack based online food ordering platform designed to simplify the process of discovering restaurants, browsing menus, and placing food orders online. The system provides a user-friendly interface where customers can explore different food categories, view restaurant menus, add items to cart, and place orders easily.
